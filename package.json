@@ -1,0 +1,19 @@
+{
+  "name": "the-future",
+  "version": "1.0.0",
+  "description": "Playground for ES6 aka JS2015",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwmcbain/the-future.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwmcbain/the-future/issues"
+  },
+  "homepage": "https://github.com/rwmcbain/the-future#readme"
+}
