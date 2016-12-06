@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 class Writer {
-	constuctor(filename, contents) {
+	constructor(filename, contents) {
 		if (!filename || !contents) throw new Error('Missing Arguments');
 		this.data = contents;
 		this.file = filename;

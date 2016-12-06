@@ -1,12 +1,12 @@
 // constants never change
 const TAG = 'NODE_APP';
-const Reader = require('./Reader');
-const Writer = require('./Writer');
+const Reader = require('./reader');
+const Writer = require('./writer');
 
 let data = {
 	eyes: 'blue',
 	tallness: 'tall',
-	job: 'Web Developer'
+	job: 'web developer'
 }
 
 // let is only scoped to a block of code
